@@ -1,12 +1,10 @@
-## 哈尔滨理工大学air战队
+# 哈尔滨理工大学A.I.R.战队
+这里是哈尔滨理工大学RoboMaster战队，用于维护战队历年竞赛代码，以供未来队员参考
 
-<!--
+本组织以维护RoboMaster比赛的自瞄和导航代码为主，同时会随机上传战队队员打其他神秘小比赛的代码（取决于队员自己是否愿意分享）
 
-**Here are some ideas to get you started:**
+尽管本战队已有10年参赛历史（截至2025.08），但由于历史原因战队曾经历过断代，目前能追溯到的最早代码为2024赛季（由于迭代版本过多，且2025赛季代码进行过重构，故实际上GitHub上传的只有2025赛季，可在自瞄项目的`2025season`分支找到2025赛季的迭代版本）
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+有关自瞄代码问题可以联系：https://github.com/lingling-llllllll
+
+update by lingling 2025.08.05
